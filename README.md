@@ -1,3 +1,3 @@
 # CSE215_JAVA
 
-Faculty:SvA
+Faculty: SvA
